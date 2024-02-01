@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the official Nike website, where style meets performance. Explore our latest collections, discover top-quality products, and stay updated with the latest trends. From iconic footwear to cutting-edge sportswear, we have it all. Join us on a journey of innovation, comfort, and style.
+Welcome to the Nike website, where style meets performance. Explore our latest collections, discover top-quality products, and stay updated with the latest trends. From iconic footwear to cutting-edge sportswear, we have it all. Join us on a journey of innovation, comfort, and style.
 
 ## Sections
 
