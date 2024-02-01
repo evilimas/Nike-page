@@ -1,4 +1,4 @@
-# Nike LAnding Page/Website - React and Tailwind
+# Nike Landing Page/Website - React and Tailwind
 
 ## Overview
 
