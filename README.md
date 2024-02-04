@@ -8,7 +8,7 @@ Welcome to the Nike website, where style meets performance. Explore our latest c
 
 ### 1. **Hero Section**
 
-- **Description:** Introducing our Summer Collection featuring the latest Nike shoes.
+- Introducing our Summer Collection featuring the latest Nike shoes.
 - **Key Features:**
   - New arrivals and popular styles.
   - Stylish designs for an active lifestyle.
@@ -16,7 +16,7 @@ Welcome to the Nike website, where style meets performance. Explore our latest c
 
 ### 2. **Popular Products Section**
 
-- **Description:** Explore our most sought-after products.
+- Explore our most sought-after products.
 - **Key Features:**
   - Top-notch quality and style.
   - A variety of selections for different preferences.
@@ -24,7 +24,7 @@ Welcome to the Nike website, where style meets performance. Explore our latest c
 
 ### 3. **Super Quality Section**
 
-- **Description:** Discover the superior quality of Nike shoes.
+- Discover the superior quality of Nike shoes.
 - **Key Features:**
   - Meticulously crafted footwear for premium comfort.
   - Innovative designs and attention to detail.
@@ -32,35 +32,35 @@ Welcome to the Nike website, where style meets performance. Explore our latest c
 
 ### 4. **Services Section**
 
-- **Description:** Explore our range of services.
+- Explore our range of services.
 - **Key Features:**
   - Services that enhance your shopping experience.
   - Details about our offerings.
 
 ### 5. **Special Offer Section**
 
-- **Description:** Exclusive deals and offers for a limited time.
+- Exclusive deals and offers for a limited time.
 - **Key Features:**
   - Unbeatable deals and savings.
   - View details or learn more about the special offer.
 
 ### 6. **Customer Reviews Section**
 
-- **Description:** Hear what our customers have to say about their experiences.
+- Hear what our customers have to say about their experiences.
 - **Key Features:**
   - Genuine stories from satisfied customers.
   - Reviews showcasing exceptional experiences.
 
 ### 7. **Subscribe Section**
 
-- **Description:** Sign up for updates and newsletters.
+- Sign up for updates and newsletters.
 - **Key Features:**
   - Stay informed about the latest releases and promotions.
   - Easy sign-up process for quick updates.
 
 ### 8. **Footer Section**
 
-- **Description:** Important links, social media, and copyright information.
+- Important links, social media, and copyright information.
 - **Key Features:**
   - Quick access to essential links.
   - Social media icons for staying connected.
